@@ -1,0 +1,9 @@
+* {
+   margin: 0;
+   padding: 0;
+}
+#hero {
+  width: 100vw;
+  height: 50vh;
+  background-image: url('img/LaunchPhotoOfMe.png');
+}
