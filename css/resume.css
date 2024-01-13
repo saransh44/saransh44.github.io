@@ -199,13 +199,13 @@ a:hover, a:focus, a:active {
 
 .navbar-toggler {
   /* padding: .25rem rem; */
-  padding-right:10vw !important;
+  padding-right:10rem !important;
 
-  padding-left: 1vw !important;
+  padding-left: 1rem  !important;
 
   font-size: 1.25rem;
   line-height: 1;
-  background-color: white !important;
+  background-color: transparent;
   border: 1px solid transparent;
   border-radius: .25rem;
 }
