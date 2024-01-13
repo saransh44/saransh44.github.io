@@ -8,6 +8,9 @@
     &:focus {
       outline-color: lighten($primary, 15%);
     }
+
+    padding: 1rem 5rem !important;
+
   }
 }
 
