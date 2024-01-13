@@ -199,9 +199,9 @@ a:hover, a:focus, a:active {
 
 .navbar-toggler {
   /* padding: .25rem rem; */
-  padding-right:1vw !important;
+  padding-right:10vw !important;
 
-  padding-left: 0.25vw !important;
+  padding-left: 1vw !important;
 
   font-size: 1.25rem;
   line-height: 1;
