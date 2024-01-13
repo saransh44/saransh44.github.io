@@ -107,7 +107,7 @@ p.lead {
     -webkit-box-direction: normal;
     -ms-flex-direction: column;
     flex-direction: column;
-    width: 17rem;
+    width: 14rem;
     height: 100vh;
   }
   #sideNav .navbar-brand {
