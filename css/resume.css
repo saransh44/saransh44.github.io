@@ -195,6 +195,9 @@ a:hover, a:focus, a:active {
 }
 #rightSection {
   background-color: #fce38a;
+  padding: none;
+  margin: none;
+
 }
 
 .navbar-toggler {
@@ -204,7 +207,7 @@ a:hover, a:focus, a:active {
   padding-left: 0.25rem  !important;
 
 
-  margin-right: 2.75 rem !important;
+  margin-right: 3rem !important;
   /* margin-left: 1rem  !important; */
 
 
