@@ -196,3 +196,11 @@ a:hover, a:focus, a:active {
 #rightSection {
   background-color: #fce38a;
 }
+
+.fixed-top {
+  position: fixed;
+  top: 0;
+  right: 1 !important;
+  left: 0;
+  z-index: 1030;
+}
